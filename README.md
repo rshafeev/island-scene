@@ -1,6 +1,8 @@
 ###Description###
 3D scene was generated using opengl libraries and shaders. In the scene there are the terrain island, the sea, a sailing ship and castle. Castle and ship is 3ds models which was constructed into 3dmax.   
 
+#See demonstration video:#
+ [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Wg405HbXGsw/0.jpg)](https://www.youtube.com/watch?v=Wg405HbXGsw)
 ### Control keys ###
 * keyboard arrows - moving on.
 * Home/End - increase/decrease height.
