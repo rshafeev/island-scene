@@ -10,11 +10,11 @@
 * F2 - return to full-screen mode 
 * Esc - exit
 
-###Used technologies and tools###
+### Used technologies and tools ###
 * Basic: C++, WinAPI/MFC, Visual Studio 2013
 * Graphics: OpenGL + shaders
 
-###Requires###
+### Requires ###
 * MFC framework
 * opengl: "glut, glaux, glew" libs
 
