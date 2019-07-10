@@ -1,7 +1,7 @@
-###Description###
+### Description ###
 3D scene was generated using opengl libraries and shaders. In the scene there are the terrain island, the sea, a sailing ship and castle. Castle and ship is 3ds models which was constructed into 3dmax.   
 
-#See demonstration video:#
+# See demonstration video: #
  [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Wg405HbXGsw/0.jpg)](https://www.youtube.com/watch?v=Wg405HbXGsw)
 ### Control keys ###
 * keyboard arrows - moving on.
@@ -18,6 +18,6 @@
 * MFC framework
 * opengl: "glut, glaux, glew" libs
 
-###Possible problems###
+### Possible build recommends ###
 * If you get the next error: "fatal error LNK1281: .... SAFESEH." we recommend that you do the following: Open project properties/Linker/Additional/(set NO:SAFESEH.)
 * If we run project and get "can not find glew32.dll", copy glew32.dll and glut32.dll libraries to folder "Release[or Debug]"
